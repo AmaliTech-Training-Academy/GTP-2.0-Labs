@@ -32,6 +32,13 @@ This space contains all modules and lab exercises designed to build strong UI/UX
 
 ---
 
+### Module 6: Wireframing
+- 🧪 [Lab 1: Low-Fi for Public Holiday Project](Module-6/LowFi.md) 
+- 🧪 [Lab 2: Mid-Fi for PantryPal Project](Module-6/MidFi.md)
+- 🧪 [Lab 3: Design Libraries & Asset Organization](Module-6/DesignLibraries.md)
+
+---
+
 ## Overview
 
 The UI/UX track focuses on:
