@@ -8,8 +8,8 @@ This space contains all modules and lab exercises designed to build strong UI/UX
 ## Quick Links
 
 ### Module 1: Foundations & Case Studies
-- 🧪 [Lab 1: Case Study Analysis](Module-1/lab1-case-study-analysis.md)
-- 🧪 [Lab 2: UX Analysis & Redesign (Art.yale.edu)](Module-1/lab2-art-yale-redesign.md)
+- 🧪 [Lab 1: Case Study Analysis](Module 1/Case-Study-Analysis.md)
+- 🧪 [Lab 2: Bad to better redesign](Module 1/Bad to better redesign.md)
 
 ---
 
