@@ -26,6 +26,12 @@ This space contains all modules and lab exercises designed to build strong UI/UX
 
 ---
 
+### Module 5: Gestalt Principles
+- 🧪 [Lab 1: Gestalt principles](Module-5/Gestalts.md) 
+- 🧪 [Lab 2: Hunter Project](Module-5/Hunter.md)
+
+---
+
 ## Overview
 
 The UI/UX track focuses on:
