@@ -50,6 +50,25 @@ This space contains all modules and lab exercises designed to build strong UI/UX
 - 🧪 [Lab 3: Accessibility for Chat App](Module-8/Accessibility.md)
 
 ---
+
+### Module 9: Prototyping
+- 🧪 [Lab 1: Interactive Prototyping with Travel Booking Project](Module-9/InteractiveP.md) 
+- 🧪 [Lab 2: Prototyping with Food Delivery System](Module-9/Prototyping.md)
+
+---
+
+### Module 10: Usability Testing
+- 🧪 [Lab 1: Usability Testing](Module-10/Usability.md) 
+
+---
+
+### Module 12: Handoff File
+- 🧪 [Lab 1: Handoff File](Module-12/Handoff.md) 
+
+---
+
+
+
 ## Overview
 
 The UI/UX track focuses on:
