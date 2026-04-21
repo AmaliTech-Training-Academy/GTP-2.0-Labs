@@ -8,14 +8,14 @@ This space contains all modules and lab exercises designed to build strong UI/UX
 ## Quick Links
 
 ### Module 1: Foundations & Case Studies
-- 🧪 [Lab 1: Case Study Analysis](Module 1/Case-Study-Analysis.md)
-- 🧪 [Lab 2: Bad to better redesign](Module 1/Bad to better redesign.md)
+- 🧪 [Lab 1: Case Study Analysis](Module-1/Case_Study_Analysis.md)
+- 🧪 [Lab 2: Bad to better redesign](Module-1/Bad_to_better_redesign.md)
 
 ---
 
 ### Module 2: Wireframing & Prototyping
-- 🧪 Lab 1: *(Coming soon)*
-- 🧪 Lab 2: *(Coming soon)*
+- 🧪 [Lab 1: PDLC](Module-2/PDLC.md) 
+- 🧪 [Lab 2: Feature Launch](Module-2/Feature_launch.md)
 
 ---
 
