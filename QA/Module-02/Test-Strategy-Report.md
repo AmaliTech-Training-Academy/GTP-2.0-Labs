@@ -1,6 +1,6 @@
 # Test Strategy Report
 
-## Objectives
+## Project Objectives
 
 - Develop a comprehensive test strategy for a software application, incorporating appropriate software development lifecycle (SDLC) models to align testing activities with development phases.  
 
