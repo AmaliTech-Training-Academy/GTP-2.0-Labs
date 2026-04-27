@@ -1,12 +1,6 @@
-# BankEnd Specialization
-
 ---
 
-## Module 1: Bank Account Management
-
-**Complexity:** Medium
-**Time Estimate:** 10 hours
-
+## Bank Account Management
 ---
 
 ### Objectives
