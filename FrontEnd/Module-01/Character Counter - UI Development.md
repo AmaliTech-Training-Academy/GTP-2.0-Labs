@@ -1,3 +1,4 @@
+# Character Counter - UI Development
 ## Learning Objectives
 
 * **HTML & CSS Mastery:** Build a pixel-perfect user interface using semantic HTML and modern CSS.
