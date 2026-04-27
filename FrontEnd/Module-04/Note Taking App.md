@@ -1,3 +1,4 @@
+# DOM & Browser APIs: Note Taking App
 ## Learning Objectives
 
 * **DOM Manipulation:** Dynamically create, read, update, and delete elements in the Document Object Model using JavaScript.
