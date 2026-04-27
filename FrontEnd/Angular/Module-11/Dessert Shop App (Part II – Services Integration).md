@@ -1,3 +1,4 @@
+# Services & Dependency Injection: Dessert Shop App
 ## Introduction
 
 In this lab, learners will extend their **Dessert Shop App** by introducing **Angular Services** and applying **Dependency Injection (DI)** principles.
