@@ -1,3 +1,4 @@
+# RxJS & Observables: Dessert Shop App
 ## Introduction
 
 In this lab, learners will enhance the **Dessert Shop App** by integrating **RxJS** to manage data reactively.
