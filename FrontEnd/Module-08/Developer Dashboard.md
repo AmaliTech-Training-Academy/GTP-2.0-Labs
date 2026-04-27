@@ -1,3 +1,4 @@
+# Tooling & Build Systems: Developer Dashboard
 ## Learning Objectives
 
 - **Configure a Modern Front-End Project:** Set up a front-end environment using npm or Yarn to manage dependencies and scripts.
