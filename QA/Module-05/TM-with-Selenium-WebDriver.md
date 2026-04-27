@@ -1,6 +1,6 @@
 # Test Automation with Selenium WebDriver
 
-## Objectives
+## Project Objectives
 
 Set Up Selenium WebDriver:  
 
@@ -16,7 +16,7 @@ Set up a Continuous Integration (CI) pipeline using GitHub Actions to automate S
 
 ---
 
-## PROJECT: Selenium WebDriver Setup and Basic UI Testing
+## PROJECT Description: Selenium WebDriver Setup and Basic UI Testing
 
 ---
 
