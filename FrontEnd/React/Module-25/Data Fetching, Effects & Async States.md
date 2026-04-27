@@ -1,3 +1,4 @@
+# React HTTP & APIs: Data Fetching, Effecting & Async States
 ## Learning Objectives
 
 By the end of this lab, you should be able to:
