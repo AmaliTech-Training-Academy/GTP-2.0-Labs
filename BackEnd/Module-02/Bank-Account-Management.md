@@ -1,12 +1,5 @@
-# Module 2 Specialization
 
----
-
-## Module 2.1: Bank Account Management
-
-**Complexity:** Medium
-**Time Estimate:** 6–8 hours
-**Technology Stack:** Java 21 (LTS), IntelliJ IDEA Community Edition, JUnit 5, Git
+## Bank Account Management
 
 ---
 
