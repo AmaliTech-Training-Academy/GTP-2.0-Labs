@@ -1,6 +1,3 @@
-# Database Fundamentals
-
----
 
 ## Hospital/Healthcare Management System
 
