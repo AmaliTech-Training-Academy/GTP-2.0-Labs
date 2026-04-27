@@ -1,3 +1,4 @@
+# Git & Version Control: Note Taking App
 ## Learning Objectives
 
 * **Version Control Fundamentals**: Understand what Git is and how it tracks changes in software development.
