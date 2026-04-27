@@ -1,3 +1,4 @@
+# HTTP & APIs: Kanban Task Management Web App
 ## Introduction
 
 In this lab, learners will extend their **Kanban Task Management Web App** to interact with external or mock APIs using Angular's **HttpClient** module.
