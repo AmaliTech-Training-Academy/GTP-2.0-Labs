@@ -1,12 +1,7 @@
 # Test Automation with Selenium WebDriver II
-
-## WEEK 6
-
-## PROJECT: Test Automation with Selenium WebDriver II
-
 ---
 
-## Objectives
+## Project Objectives
 
 - Develop a comprehensive test plan, ensuring alignment with project goals and stakeholder expectations, for all testing activities including scope, objectives and resources.  
 - Perform test automation  
@@ -15,7 +10,7 @@
 
 ---
 
-## Overview
+## Project Description
 
 The XYZ Bank app is a digital banking platform designed to serve two primary user groups: customers and bank managers.
 
