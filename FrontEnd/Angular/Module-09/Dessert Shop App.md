@@ -1,3 +1,4 @@
+# Angular Fundamentals: Dessert Shop App
 ## Introduction
 
 In this lab, learners will apply fundamental Angular concepts to develop a **Dessert Shop App**, showcasing the use of components, templates, data binding, and directives to create a dynamic and interactive web application.
