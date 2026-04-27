@@ -1,3 +1,4 @@
+# Advanced JavaScript: Task Manager API Client
 ## Learning Objectives
 
 * **ES6+ JavaScript Mastery:** Use arrow functions, destructuring, spread/rest operators, template literals, and array methods (`map`, `filter`, `reduce`).
