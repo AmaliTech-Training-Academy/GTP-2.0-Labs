@@ -1,3 +1,4 @@
+# TypeScript Fundamentals: Journal App
 ## Learning Objectives
 
 · Analyze and Demonstrate Type Safety: Understand the purpose and benefits of using TypeScript by identifying and resolving type-related compilation errors.
