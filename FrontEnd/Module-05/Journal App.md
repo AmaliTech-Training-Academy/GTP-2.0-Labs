@@ -9,7 +9,7 @@
 
 · Perform Type-Safe DOM CRUD Operations: Apply strong typing to dynamically Create, Read, Update, and Delete elements in the Document Object Model, ensuring data integrity throughout the application lifecycle.
 
-## Introduction: The Personal Mood Journal
+## Introduction
 
 You will build a dynamic, client-side Journal Application. This app allows a user to write and save personal journal entries; each associated with a specific mood.
 
