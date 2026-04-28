@@ -69,7 +69,7 @@ git push -u origin dev
 
 ## Tasks
 
-## Required Features (Implement All 4)
+### Required Features (Implement All 4)
 
 ---
 
