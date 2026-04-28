@@ -1,5 +1,5 @@
 # Testing Basics: Task Manager API Client
-## Learning Objectives:
+## Learning Objectives
 
 · Testing Fundamentals: Understand the differences between unit, integration, and end-to-end testing and when to apply each type of testing.
 
@@ -13,13 +13,13 @@
 
 ---
 
-## Introduction:
+## Introduction
 
 You will add comprehensive testing to your previously built Task Manager API Client using Jest. This lab focuses on writing unit tests for individual functions and classes, integration tests for modules working together, and using mocks/spies to isolate external dependencies like API calls. You'll structure tests properly, achieve good code coverage, and use testing to improve code quality.
 
 ---
 
-## Project Setup:
+## Project Setup
 
 ### 1. Install and Configure Jest:
 
@@ -55,7 +55,7 @@ tests/ ├── unit/ # Unit tests for individual functions/classes ├── i
 
 ---
 
-## Tasks:
+## Tasks
 
 ### 1. Unit Testing - Model Classes (30% of tests)
 
@@ -411,7 +411,7 @@ Achieve Minimum Coverage Targets:
 
 ---
 
-## Evaluation Criteria:
+## Evaluation Criteria
 
 Criteria Score Description
 
@@ -427,7 +427,7 @@ Understanding Testing Types 5% Demonstrates clear understanding of unit vs integ
 
 ---
 
-## Deliverables:
+## Deliverables
 
 ### 1. Test Files (Minimum Required):
 
