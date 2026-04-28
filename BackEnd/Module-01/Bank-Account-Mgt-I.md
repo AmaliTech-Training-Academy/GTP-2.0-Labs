@@ -3,7 +3,7 @@
 ## Bank Account Management
 ---
 
-### Objectives
+### Project Objectives
 
 By completing this project, you will be able to:
 
@@ -1846,4 +1846,3 @@ Public GitHub Repository containing:
 - Class diagram showing inheritance and relationships
 - Explanation of OOP design choices
 
-**Submission Link:** Please fill out this form *(insert actual form link here)*
