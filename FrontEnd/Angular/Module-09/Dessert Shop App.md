@@ -1,9 +1,4 @@
 # Angular Fundamentals: Dessert Shop App
-## Introduction
-
-In this lab, learners will apply fundamental Angular concepts to develop a **Dessert Shop App**, showcasing the use of components, templates, data binding, and directives to create a dynamic and interactive web application.
-
-This lab emphasizes understanding the structure of Angular applications, creating reusable building blocks, and implementing responsive UI behaviors using Angular's template syntax.
 
 ## Learning Objectives
 
@@ -17,7 +12,13 @@ By the end of this lab, learners should be able to:
 - Display and update dynamic data (like cart items) within the application.
 - Deploy an Angular application to a hosting platform.
 
-## Lab Requirements
+## Introduction
+
+In this lab, learners will apply fundamental Angular concepts to develop a **Dessert Shop App**, showcasing the use of components, templates, data binding, and directives to create a dynamic and interactive web application.
+
+This lab emphasizes understanding the structure of Angular applications, creating reusable building blocks, and implementing responsive UI behaviors using Angular's template syntax.
+
+### Lab Requirements
 
 - Node.js (v18 or later)
 - Angular CLI (latest version)
@@ -28,13 +29,14 @@ By the end of this lab, learners should be able to:
 
 **Estimated Time:** 4 hours
 
-## Lab Tasks
 
-### Task 1: Project Setup
-
+## Project Setup
+### Task 1:
 Create and configure a new Angular project for the Dessert Shop App.
 
 Ensure that the initial application runs successfully in the browser.
+
+## Tasks
 
 ### Task 2: Create Core Components
 
@@ -86,7 +88,7 @@ Share the live application link along with your GitHub repository.
 - Visually highlight products already in the cart.
 - Format currency values appropriately for your region.
 
-## Assessment Criteria
+## Evaluation Criteria
 
 | Criteria | Weight | Description |
 |---|---|---|
