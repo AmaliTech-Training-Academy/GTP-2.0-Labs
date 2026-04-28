@@ -230,5 +230,3 @@ src/
 * Design explanation
 
 ---
-
-## End of Document
