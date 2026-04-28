@@ -1,9 +1,4 @@
 # Component Interaction & Lifecycle: Character Counter App
-## Introduction
-
-In this lab, you will build a **Character Counter Application** that helps users analyze and manage their written text. The app will display character, word, and sentence counts, enforce character limits, and provide real-time feedback using Angular's component communication patterns.
-
-This project emphasizes **component hierarchy, parent-child data flow**, and the use of **lifecycle hooks** for managing updates and cleanup. Learners will demonstrate mastery of Angular's @Input() and @Output() decorators, change detection, and component structuring best practices.
 
 ## Learning Objectives
 
@@ -15,7 +10,7 @@ By the end of this lab, learners will be able to:
 - Structure an Angular application for readability, reusability, and maintainability.
 - Implement change detection to ensure the UI responds to user input in real-time.
 
-## Project Requirements
+### Project Requirements
 
 **Your users should be able to:**
 
@@ -29,13 +24,21 @@ By the end of this lab, learners will be able to:
 - Experience a **responsive layout** that adapts across screen sizes.
 - See **hover and focus states** for all interactive elements.
 
-## Lab Tasks
+## Introduction
 
-### Setup
+In this lab, you will build a **Character Counter Application** that helps users analyze and manage their written text. The app will display character, word, and sentence counts, enforce character limits, and provide real-time feedback using Angular's component communication patterns.
+
+This project emphasizes **component hierarchy, parent-child data flow**, and the use of **lifecycle hooks** for managing updates and cleanup. Learners will demonstrate mastery of Angular's @Input() and @Output() decorators, change detection, and component structuring best practices.
+
+
+## Project Setup
 
 - Create a new Angular project using the CLI.
 - Generate the components listed above.
 - Establish a basic layout with a parent container and child components.
+
+  
+## Tasks
 
 ### Implement Component Interaction
 
@@ -60,13 +63,6 @@ By the end of this lab, learners will be able to:
 - Test how the app behaves when exceeding the character limit.
 - Use console.log() or Angular DevTools to inspect change detection behavior.
 
-## Deliverables
-
-- A functional, multi-component Angular app that meets all requirements.
-- Proper use of @Input() and @Output() for component communication.
-- Clean, modular code with meaningful component separation and naming.
-- Demonstration of at least two lifecycle hooks.
-- Responsive and accessible UI with complete interactivity.
 
 ## Evaluation Criteria
 
@@ -78,3 +74,11 @@ By the end of this lab, learners will be able to:
 | Code Quality | 15% | Clean, modular, and well-structured code |
 | Responsiveness & Accessibility | 10% | Works across screen sizes and supports keyboard navigation |
 | UI Polish | 5% | Visual design, hover/focus states, and overall user experience |
+
+## Deliverables
+
+- A functional, multi-component Angular app that meets all requirements.
+- Proper use of @Input() and @Output() for component communication.
+- Clean, modular code with meaningful component separation and naming.
+- Demonstration of at least two lifecycle hooks.
+- Responsive and accessible UI with complete interactivity.
