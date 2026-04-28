@@ -7,7 +7,7 @@
 - **Maintain Consistent Code Style:** Apply Prettier for automatic code formatting and alignment with team standards.
 - **Analyze Build Optimization:** Examine how Vite and related build tools improve application performance and maintainability.
 
-## Introduction: The Developer Dashboard
+## Introduction
 
 In this lab, you will create a lightweight **Developer Dashboard** web application — a simple client-side tool that displays a list of "developer resources" such as tutorials, documentation links, or tools.
 
@@ -56,7 +56,7 @@ The goal is to focus on **front-end tooling setup**, **build automation**, and *
 - **Apply Build Tools in Context:** Run the build process again and confirm all modern optimizations are applied.
 - **Reflection:** Write a short (3–5 sentence) explanation of how Vite's build process improves your app's performance and developer experience.
 
-## Evaluation Criteria (100 Points Total)
+## Evaluation Criteria
 
 | Criteria | Score | Description |
 |---|---|---|
