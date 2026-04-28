@@ -30,7 +30,7 @@ In this lab session, you will add functionality to your UI built in Lab 1. You w
 * Ensure any additional features work correctly.
 * Refine the code based on your own tests and peer feedback.
 
-## Evaluation Criteria Table
+## Evaluation Criteria
 During your small group check-ins and check-outs, you are required to share your development work with your learning group for peer review. Your peers will provide feedback on your work, highlighting both strengths and areas for improvement. Each trainee is expected to write down the feedback they receive using the detailed rubric provided. The feedback should be constructive and include specific dos and don’ts to guide further development.
 
 | Criteria                          | Score | Description                                                                                                                                                       |
