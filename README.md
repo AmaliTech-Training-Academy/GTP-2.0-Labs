@@ -26,8 +26,7 @@ The repository includes labs for the following tracks:
 3. **UI/UX Design**
 4. **Quality Assurance (QA)**
 5. **DevOps Engineering**
-6. **Cybersecurity**
-7. **Data Engineering**
+6. **Data Engineering**
 
 ---
 
